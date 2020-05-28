@@ -1,6 +1,6 @@
 ﻿SetTimer Click, 900
 
-F8::
+1::
 Toggle := !Toggle
 MouseGetPos mX,mY
 return
