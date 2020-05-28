@@ -1,5 +1,5 @@
 # OSRS-AHK
-AHK Scripts for Old School Runescape
+My own collection of AHK Scripts for Old School Runescape (personal-use).
 
 ## Usage
 Use the scripts at your own risk, I am not responsible for any damage/bans.
