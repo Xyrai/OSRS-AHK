@@ -1,4 +1,4 @@
-﻿;Use this script at the last banker in Yannile, put your bow (u) and bow string in the end of the first row in your bank.
+﻿;Use this script at the last banker in Yanille, put your bow (u) and bow string in the end of the first row in your bank.
 1::
 
 loop {
